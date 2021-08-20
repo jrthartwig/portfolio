@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Fort Wayne',
   name: 'Nano Dev',
-  subtitle: 'I\'m Jocelynn Hartwig',
+  subtitle: 'Custom Websites for Small Businesses',
   cta: 'Check Out My Projects',
 };
 
@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'yeastyboy.png',
     title: 'Yeasty Boy Bread Company',
-    info: 'information about YBBC',
+    info: 'YBBC is a bread baking business that specializes in sourdoughs and focaccias. Currently the YBBC website functions as a marketing and pre order funnel.',
     info2: '',
     url: 'https://yellow-island-0c92a2910.azurestaticapps.net/',
     repo: 'https://github.com/jrthartwig/yeasty-boy', // if no repo, the button will not show up
@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'petersbodyshop.png',
     title: 'Peters Body Shop',
-    info: 'Information about Peters Body Shop',
+    info: 'Peters Body Shop is a collision repair shop. Their website is a marketing brochure with a CTA to schedule an appointment for a repair estimate.',
     info2: '',
     url: 'petersbodyshop.com',
     repo: '', // if no repo, the button will not show up
@@ -48,7 +48,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'blog.png',
     title: 'Personal/Technical Blog',
-    info: 'Information about the blog',
+    info: 'This blog lives as a living document containing my adventures in technology and my other various hobbies.',
     info2: '',
     url: 'https://blog.jocelynnlearns.com',
     repo: 'https://github.com/jrthartwig/blogV2', // if no repo, the button will not show up
