@@ -13,6 +13,7 @@ export const heroData = {
   name: 'Nano Dev',
   subtitle: 'Custom Websites for Small Businesses',
   cta: 'Check Out My Projects',
+  aboutCta: 'Meet the Coder'
 };
 
 // ABOUT DATA
@@ -48,7 +49,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'blog.png',
     title: 'Personal/Technical Blog',
-    info: 'This blog lives as a living document containing my adventures in technology and my other various hobbies.',
+    info: 'A blog about my adventures in technology and my other various hobbies.',
     info2: '',
     url: 'https://blog.jocelynnlearns.com',
     repo: 'https://github.com/jrthartwig/blogV2', // if no repo, the button will not show up
