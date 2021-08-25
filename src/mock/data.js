@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'Peters Body Shop',
     info: 'Peters Body Shop is a collision repair shop. Their website is a marketing brochure with a CTA to schedule an appointment for a repair estimate.',
     info2: '',
-    url: 'petersbodyshop.com',
+    url: 'https://petersbodyshop.com',
     repo: '', // if no repo, the button will not show up
   },
   {
