@@ -32,7 +32,7 @@ export const projectsData = [
     img: 'yeastyboy.png',
     title: 'Yeasty Boy Bread Company',
     info: 'YBBC is a bread baking business that specializes in sourdoughs and focaccias. Currently the YBBC website functions as a marketing and pre order funnel.',
-    info2: '',
+    info2: 'https://yeastyboybreadco.com/',
     url: 'https://yellow-island-0c92a2910.azurestaticapps.net/',
     repo: 'https://github.com/jrthartwig/yeasty-boy', // if no repo, the button will not show up
   },
@@ -40,7 +40,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'petersbodyshop.png',
     title: 'Peters Body Shop',
-    info: 'Peters Body Shop is a collision repair shop. Their website is a marketing brochure with a CTA to schedule an appointment for a repair estimate.',
+    info: 'Peters Body Shop is a collision repair shop. Their website is a marketing brochure website with a call to action to schedule an appointment for a repair estimate.',
     info2: '',
     url: 'https://petersbodyshop.com',
     repo: '', // if no repo, the button will not show up
