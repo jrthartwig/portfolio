@@ -32,8 +32,8 @@ export const projectsData = [
     img: 'yeastyboy.png',
     title: 'Yeasty Boy Bread Company',
     info: 'YBBC is a bread baking business that specializes in sourdoughs and focaccias. Currently the YBBC website functions as a marketing and pre order funnel.',
-    info2: 'https://yeastyboybreadco.com/',
-    url: 'https://yellow-island-0c92a2910.azurestaticapps.net/',
+    info2: '',
+    url: 'https://yeastyboybreadco.com/',
     repo: 'https://github.com/jrthartwig/yeasty-boy', // if no repo, the button will not show up
   },
   {
