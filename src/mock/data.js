@@ -34,7 +34,7 @@ export const projectsData = [
     info: 'YBBC is a bread baking business that specializes in sourdoughs and focaccias. Currently the YBBC website functions as a marketing and pre order funnel.',
     info2: '',
     url: 'https://yeastyboybreadco.com/',
-    repo: 'https://github.com/jrthartwig/yeasty-boy', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -52,7 +52,7 @@ export const projectsData = [
     info: 'A blog about my adventures in technology and my other various hobbies.',
     info2: '',
     url: 'https://blog.jocelynnlearns.com',
-    repo: 'https://github.com/jrthartwig/blogV2', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
